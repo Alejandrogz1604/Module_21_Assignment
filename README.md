@@ -1,1 +1,1 @@
-# Module_21_Assignment
+This file contains the initial python notebook, where the data is preprocessed and the original model is built. It also contains an optimized version of our model, and a summary report explaining how our neural network was constructed, and the methodology for optimization. 
